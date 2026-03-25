@@ -1,0 +1,22 @@
+{
+  "name": "iCheck — iPhone Second Checklist",
+  "short_name": "iCheck",
+  "description": "Panduan lengkap cek iPhone second sebelum beli",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#7DF9C0",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/7DF9C0/0a0a0f?text=iC",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/7DF9C0/0a0a0f?text=iC",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
